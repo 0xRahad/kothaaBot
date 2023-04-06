@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kothabot-lawe",
+  "private_key_id": "fd646cc42fe0fa96b06d59742b5342346c8a54a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCh+4Fxq3EceDyz\nSIHCVjdxWnPALcNx+Xd5Rs1MPXN4Cf+R2o6NBtFDCjh7UpdW4otiH6sREkSmSIR6\nSMrnkyu89xixIuZo44mQOsEGRyA6tg2OvqoES8wcu9uBRi0egwn3bsZ9sCUm+UOf\njGAZ46Y4sOxR+/G+AJMqyLMWt+1bmpJvMGl7lpL9occ8BjSWKt3qL+p0Gp4OMXjd\n0YQo8GrMXf65B27vHAr15GJ/0ZeoRWyFchxdv1mZgjOqNv+JIFmOCyXLTAdTMzGH\nX8VLx/eN1DEKtaCeorR5KaUjELCj1nL9zy9UKa2IkVlsX4V1K3WefdR9uRozxFjC\n7F3p+GHlAgMBAAECggEAA1/yJ2GJyAImS5rwtHvniE744ecM2c33hAPqXj1ahO9P\nueTKkFwfwIHmQYWBPdrBn3/8Pa0P1+y4sTPdNwbChBucJ1ahjnZiej+LICZxC2AZ\nzLX4D1ev7zpSaAauWngi8prbe6i6QW4Ij2VVPDzZYfgnraFDkltAiwU8RqElisFs\nt/CI4k9inf9DvvfL5HHMvyuKbYFpDyBToRl6bm8L4EypjcGlseOv9YZUj3j0CpuJ\nnv+KhQT0x3uQGdVtxttg1/lmJrSXH+z4foCcTS/ns1QhfpND9INPITsVxnpGFGcr\n2Ggh8du2bvzGi4NNCNRRuALcr4ozTxzpOuFY2CCkGQKBgQDk8SiP929yhbbW1aAn\nhamNegpgk1RoIw1PPi6RhrHqIkQQMmLvUKwI32W41Trgz3xep2LfcHhTjiJnbHDf\nAceKYyKcAV+c311b3fh1P+qfr0xe+PXGe7+XKgeMWIo3WhvMLVVwTAs1l56S/7F9\nqWpPo4YE/PPFoQsY7Y+G8+pJbQKBgQC1IG0oZl6rF2YezoJjU5cK6q3TDWlIRRg9\nit4cOdEzfrTDJzhXpU2N5iGHCJiWJmAMiFzK3Ch0MJbLXsAvUWY1VGQ91hih6jNo\nDGi9b93dQTpfxaSRGqqPV2+nSUojepXXd/gwLspPP/uAu+wwjN0nOxbtkQKK3tV+\n7mTAD6JnWQKBgFlTBkJ1hhQmu5nCq8P/0JGUhiv8D7i5xF2go0bASPZS/D9diWBa\nF2U21FdzSo+gJKRBpsAK/8eJ8z5q/vbjmNkTqNM5bfak56YKSwBkOcSn/qInfK0+\nZxgxm9RUT0kdbS8SmP1BjjYQvBwai0O+L+52nLmhf/MhzFSji5ZZ4JVZAoGAHot1\nXRbGaDvt8MwKmQ2Dr0ecQLdGRfXA/L/qbQAjE3gOq8p1afJqfb+Nb+Q3NzsJf5OP\ncnZmLBH1nB5CcrhbcCrnLLZqOQPx314YW7n9xE43tebytbW1ha7NGXz2j70gf9Gv\nfRCm9W5oz3Dhh955fSAt4apOr3SctGcnfmwkiyECgYB0H3ZU+bQ8pS5kTuP0vo2D\n//JhL784wIHRt/mxMKVquP7EmOFJW83fVurKOIMsiOeIY18nNLLNDvd7DOTpUXmd\n4rhamCdEMVvZKB2AJpbfh37Sa+HcIx2q9c5FSjppW6NaScVgFESfEWZiBwQvBDVF\n7U1jePBsEYnNLiUk84aLyg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kothaabot@kothabot-lawe.iam.gserviceaccount.com",
+  "client_id": "106851845268364733482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kothaabot%40kothabot-lawe.iam.gserviceaccount.com"
+}
